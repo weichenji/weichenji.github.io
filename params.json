@@ -1,6 +1,6 @@
 {
   "name": "Weichenji.GitHub.io",
   "tagline": "this is my blog",
-  "body": "<img src=\"https://github.com/weichenji/weichenji.github.io/blob/master/be530effd1a1ce08ed6a84a8b39b81fa.jpg\" width = \"300\" height = \"200\" alt=\"图片名称\" align=center />\r\n",
+  "body": "<img src=\"https://raw.githubusercontent.com/weichenji/weichenji.github.io/master/be530effd1a1ce08ed6a84a8b39b81fa.jpg\" width = \"300\" height = \"200\" alt=\"图片名称\" align=center />\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
